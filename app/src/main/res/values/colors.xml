@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textHintColor">#CBD0EA</color>
+    <color name="customBG">#010615</color>
+    <color name="textInputColor">#503144</color>
+    <color name="buttonBG">#FFCDE9</color>
+    <color name="textSub">#969DBF</color>
+</resources>
